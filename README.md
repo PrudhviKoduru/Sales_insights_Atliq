@@ -6,6 +6,8 @@ This project presents a detailed **Sales Insights Dashboard** for **AtliQ**, a h
 📊 [**Click here to view the interactive dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjA2NWY4OTgtZmY3MC00NzVmLWJhZmMtMzQ4ODNkZWEyZTkyIiwidCI6ImMzMGI2ZmZmLTRiZGItNGUzOS1hNDY3LWU1ODFkM2QyNTNiYyJ9)
 
 ---
+## Preview of the Dashboard
+![Dashboard Preview]()
 
 ## 🚀 Key Highlights
 
@@ -40,6 +42,6 @@ This project presents a detailed **Sales Insights Dashboard** for **AtliQ**, a h
 ---
 
 ## 📬 Contact
-For suggestions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/koduru-prudhvi) 
+For suggestions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/prudhvi-koduru) 
 
 
