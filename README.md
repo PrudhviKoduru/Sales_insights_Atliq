@@ -9,7 +9,7 @@ This project presents a detailed **Sales Insights Dashboard** for **AtliQ**, a h
 ## Preview of the Dashboard
 ![Dashboard Preview](https://github.com/PrudhviKoduru/Sales_insights_Atliq/blob/88daa18605ffbfa4dbec63628d5f9fc99a8377bb/Dashboard/Dashboard%201.png)
 
-## 🚀 Key Highlights
+## 🚀Process I have done:
 
 - ✅ **Data Source**: Imported sales and product data from **Codebasics MySQL database**.
 - 🧹 **Data Cleaning**: Handled nulls, ensured data consistency, and performed joins using SQL.
