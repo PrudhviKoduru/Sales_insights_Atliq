@@ -42,6 +42,5 @@ This project presents a detailed **Sales Insights Dashboard** for **AtliQ**, a h
 ---
 
 ## 📬 Contact
-For suggestions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/prudhvi-koduru) 
-
+For suggestions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/prudhvi-koduru)| [Gmail](mailto:koduruprudhvi03@gmail.com)
 
